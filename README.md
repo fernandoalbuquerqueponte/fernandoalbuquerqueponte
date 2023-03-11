@@ -1,7 +1,3 @@
-# 💫 About Me:
-Desenvolvedor Front-End Mobile
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-albuquerque-8a29a7226/) 
 
