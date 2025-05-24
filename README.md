@@ -12,8 +12,7 @@ Desenvolvedor Front-end 💻
 
 <div align-center>
 
-<img src="https://raw.githubusercontent.com/fernandoalbuquerqueponte/fernandoalbuquerqueponte
-/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fernandoalbuquerqueponte/fernandoalbuquerqueponte/output/snake.svg" alt="Snake animation" />
   
 </div>
 
