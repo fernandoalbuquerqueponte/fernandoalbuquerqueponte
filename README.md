@@ -10,6 +10,7 @@ Meu nome é Fernando de Albuquerque, tenho 21 anos e, com foco em desenvolviment
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoalbuquerqueponte&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
+
 <div align-center>
 
 <img src="https://raw.githubusercontent.com/fernandoalbuquerqueponte/fernandoalbuquerqueponte/output/snake.svg" alt="Snake animation" />
