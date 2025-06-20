@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Sobre Mim:
-Meu nome é Fernando de Albuquerque, tenho 21 anos e, com foco em desenvolvimento Fullstack, estudo programação há 3 anos, sempre em constante evolução. Acredito que soluções simples, bem estruturadas e de fácil manutenção têm o poder de transformar projetos e inspirar equipes. Meu objetivo é criar códigos claros, eficientes e alinhados às melhores práticas, sempre buscando entregar valor com qualidade.
+Meu nome é Fernando Albuquerque, tenho 21 anos e, com foco em desenvolvimento Fullstack, estudo programação há 3 anos, sempre em constante evolução. Acredito que soluções simples, bem estruturadas e de fácil manutenção têm o poder de transformar projetos e inspirar equipes. Meu objetivo é criar códigos claros, eficientes e alinhados às melhores práticas, sempre buscando entregar valor com qualidade.
 
 
 # 💻 Tech Stack:
